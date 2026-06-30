@@ -5,7 +5,7 @@
 
 <br>
 
-| **Student Name** | **Project Title** | **Language** | **Debugging Tool** |
+| **Name** | **Project Title** | **Language** | **Debugging Tool** |
 | :---: | :---: | :---: | :---: |
 | Henil Patel | E-Sports Tournament Manager | C++ | Visual Studio Debugger |
 
